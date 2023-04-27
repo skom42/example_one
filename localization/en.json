@@ -1,0 +1,33 @@
+{
+  "home": {
+    "title": "Hours Reporting",
+    "statisticsHours": "Hours Volunteered",
+    "statisticsActivities": "Volunteer Activities",
+    "createReport": "New hours report",
+    "activities": "Recent activities"
+  },
+  "addActivity": {
+    "title": "Log Hours",
+    "description": "Report your volunteering hours",
+    "buttonText": "Save",
+    "date": "Date",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "buttonConfirm": "Confirm",
+    "selectActivity": "Select Activity"
+  },
+  "error": {
+    "title": "Something went wrong...",
+    "description": "Try reload the page",
+    "button": "Refresh"
+  },
+  "delete": {
+    "title": "Are you sure you want to delete this Activity hours reporting?",
+    "confirm": "Yes, I’m sure",
+    "cancel": "No, cancel"
+  },
+  "success": {
+    "title": "Great!",
+    "description": "The hours have been recorded and sent to the organization for approval"
+  }
+}
